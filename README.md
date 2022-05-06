@@ -3,7 +3,7 @@
 😊 I'm happy to meet you here...
 
 - 👨‍💻 I'm working developer ABAP and Process Integration Cloud
-- 📚 I'm Studying Java, Javascript, Python and English
+- 📚 I'm Studying Java, Javascript and English
 - 🎓 I'm Administracion Technician
 - 👨‍🎓 Now studying Analisys and systems development
 - 💖 I love tech since the 12 years
