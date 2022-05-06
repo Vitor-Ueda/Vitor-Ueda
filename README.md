@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, How are you?
+  
+- 😊 I'm happy to meet you here...
 
 - 👨‍💻 I'm working developer ABAP and Process Integration Cloud
 - 📚 I'm Studying Java, Javascript, Python and English
@@ -9,3 +11,6 @@
 - 📧 My email address is vitorkazuma@gmail.com
 - 📱  My number is (14) 99731-1947
 - My linkedin is https://www.linkedin.com/in/vitor-ueda-5aa250191/
+
+
+- 👋 Nice to meet you, hope to see you more ofden.
