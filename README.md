@@ -8,13 +8,10 @@
 - 👨‍🎓 Now studying Analisys and systems development at FATEC LINS
 - 💖 I love tech since the 12 years
 - 🚀 Looking for internship
-- 📧 My email address is vitorkazuma@gmail.com
-- 📱  My number is (14) 99731-1947
-- My linkedin is https://www.linkedin.com/in/vitor-ueda-5aa250191/
 
  <br>
 
- <section>
+ <section align="center">
   <a href="https://github.com/Vitor-Ueda" target="_self">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorueda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-ueda&layout=compact&langs_count=7&theme=algolia"/>
@@ -24,13 +21,13 @@
  <br>
  
  <section style="display: inline_block" align="center">
-    <h1 align="center">Hard Skills</h1>
-    <img align="center" heigth="30" width="40" alt="Vitor-Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" heigth="30" width="40" alt="Vitor-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" heigth="30" width="40" alt="Vitor-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" heigth="30" width="40" alt="Vitor-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" heigth="30" width="40" alt="Vitor-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" heigth="30" width="40" alt="Vitor-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <h1>Hard Skills</h1>
+    <img heigth="30" width="40" alt="Vitor-Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img heigth="30" width="40" alt="Vitor-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img heigth="30" width="40" alt="Vitor-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img heigth="30" width="40" alt="Vitor-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img heigth="30" width="40" alt="Vitor-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img heigth="30" width="40" alt="Vitor-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  </section>
  
  <br>
@@ -46,8 +43,11 @@
     <a href="https://www.linkedin.com/in/vitor-ueda-5aa250191/" target="_blank">
       <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://wa.me/+5514997311947" target="-blank">
+    <a href="https://wa.me/+5514997311947" target="_blank">
       <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>  
  </section> 
  
