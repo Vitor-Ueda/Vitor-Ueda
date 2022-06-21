@@ -5,7 +5,7 @@
 - 👨‍💻 I'm working developer ABAP and Process Integration Cloud
 - 📚 I'm Studying Java, Javascript, HTML5 and CSS3 and English
 - 🎓 I'm Administracion Technician
-- 👨‍🎓 Now studying Analisys and systems development
+- 👨‍🎓 Now studying Analisys and systems development at FATEC LINS
 - 💖 I love tech since the 12 years
 - 🚀 Looking for internship
 - 📧 My email address is vitorkazuma@gmail.com
