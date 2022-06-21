@@ -13,3 +13,10 @@
 - My linkedin is https://www.linkedin.com/in/vitor-ueda-5aa250191/
 
 👋 Nice to meet you, hope to see you more ofden.
+
+ <section>
+  <a href="https://github.com/Vitor-Ueda" target="_self">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+ </section>
