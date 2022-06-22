@@ -53,12 +53,4 @@
  
  <br>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
- 
- 
- 
- 
- 
- 
- 
+  ![Snake animation](https://github.com/vitor-ueda/vitor-ueda/blob/output/github-contribution-grid-snake.svg)
