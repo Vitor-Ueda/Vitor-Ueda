@@ -7,7 +7,6 @@
 - 🎓 I'm Administracion Technician
 - 👨‍🎓 Now studying Analisys and systems development at FATEC LINS
 - 💖 I love tech since the 12 years
-- 🚀 Looking for internship
 
  <br>
 
