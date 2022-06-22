@@ -33,10 +33,10 @@
  
  <section style="display: inline_block" align="center">
     <a href="https://www.facebook.com/vitor.kazuma.3" target="_blank">
-      <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+      <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.instagram.com/dev_ueda/">
-      <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href="https://www.instagram.com/dev_ueda/" target="_blank">
+      <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/vitor-ueda-5aa250191/" target="_blank">
       <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
