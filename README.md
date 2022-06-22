@@ -53,7 +53,7 @@
  
  <section align="center"> 
  
-  ![Snake animation](https://github.com/Vitor-Ueda/Vitor-Ueda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vitor-Ueda/vitor-Ueda/blob/output/github-contribution-grid-snake.svg)
  
  </section>
  
