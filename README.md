@@ -6,7 +6,7 @@
 - 📚 I'm Studying Java, Javascript, HTML5 and CSS3 and English
 - 🎓 I'm Administracion Technician
 - 👨‍🎓 Now studying Analisys and systems development at FATEC LINS
-- 💖 I love tech since the 12 years
+- 💖 I love tech since the 12 years old
 
  <br>
 
