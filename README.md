@@ -48,6 +48,18 @@
  <br>
  <br>
  
+   <section style="display: inline_block" align="center">
+    <h2>Studying and Perfecting</h2>
+    <img align="center" alt="Vitor-Reactjs" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Vitor-Nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Vitor-Javascript" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="Vitor-Tailwind" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="Vitor-Storybook" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </section>
+ 
+ <br>
+ <br>
+ 
  <section style="display: inline_block" align="center">
     <h2>Social Networking</h2>
     <a href="https://www.facebook.com/vitor.kazuma.3" target="_blank">
