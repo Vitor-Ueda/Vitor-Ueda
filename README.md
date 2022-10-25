@@ -10,7 +10,7 @@
 
  <br>
 
- <section align="center">
+ <section align="left">
   <a href="https://github.com/Vitor-Ueda" target="_self">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-ueda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-ueda&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -19,7 +19,7 @@
  
  <br>
  
- <section style="display: inline_block" align="center">
+ <section style="display: inline_block" align="left">
     <h2>Skills</h2>
     <img align="center" alt="Vitor-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Vitor-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,7 +33,7 @@
  <br>
  <br>
  
-  <section style="display: inline_block" align="center">
+  <section style="display: inline_block" align="left">
     <h2>Others</h2>
     <img align="center" alt="Vitor-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Vitor-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -48,7 +48,7 @@
  <br>
  <br>
  
-   <section style="display: inline_block" align="center">
+   <section style="display: inline_block" align="left">
     <h2>Studying and Perfecting</h2>
     <img align="center" alt="Vitor-Reactjs" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Vitor-Nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -60,7 +60,7 @@
  <br>
  <br>
  
- <section style="display: inline_block" align="center">
+ <section style="display: inline_block" align="left">
     <h2>Social Networking</h2>
     <a href="https://www.facebook.com/vitor.kazuma.3" target="_blank">
       <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
