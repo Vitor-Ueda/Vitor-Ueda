@@ -9,13 +9,6 @@
 - 💖 I love tech since the 12 years old
 
  <br>
-
- <section align="left">
-  <a href="https://github.com/Vitor-Ueda" target="_self">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitor-ueda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-ueda&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </a>
- </section>
  
  <br>
  
