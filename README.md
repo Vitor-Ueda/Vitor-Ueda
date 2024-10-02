@@ -9,8 +9,6 @@
 
  <br>
  
- <br>
- 
  <section style="display: inline_block" align="left">
     <h2>Skills</h2>
     <img align="center" alt="Vitor-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,7 +20,6 @@
     <img align="center" alt="Vitor-SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
  </section>
  
- <br>
  <br>
  
   <section style="display: inline_block" align="left">
@@ -38,7 +35,6 @@
   </section>
  
  <br>
- <br>
  
    <section style="display: inline_block" align="left">
     <h2>Studying and Improving</h2>
@@ -47,7 +43,6 @@
     <img align="center" alt="Vitor-Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </section>
  
- <br>
  <br>
  
  <section style="display: inline_block" align="left">
@@ -69,8 +64,7 @@
     </a>
  </section>
  
- <br>
- <br>
+<br>
  
  <section align="center"> 
  
