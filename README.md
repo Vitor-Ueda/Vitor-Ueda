@@ -3,10 +3,9 @@
 😊 I'm happy to meet you here...
 
 - 👨‍💻 I'm developer FullStack and consultant SAP ABAP PI, PO, CPI
-- 📚 I'm Studying Java, Javascript, react and English
+- 📚 I'm Studying Javascript, BTP, CAP, RAP
 - 🎓 I'm Administracion Technician
-- 👨‍🎓 Now studying Analisys and systems development at FATEC LINS
-- 💖 I love tech since the 12 years old
+- 👨‍🎓 Graduated Systems analysis and development at FATEC LINS
 
  <br>
  
