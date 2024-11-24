@@ -1,11 +1,11 @@
-### Hello, How are you?
-  
-😊 I'm happy to meet you here...
-
-- 👨‍💻 I'm developer FullStack and consultant SAP ABAP PI, PO, CPI
-- 📚 I'm Studying Javascript, BTP, CAP, RAP
-- 🎓 I'm Administracion Technician
-- 👨‍🎓 Graduated Systems analysis and development at FATEC LINS
+- Developer and SAP Consultant;
+- 22 years old;
+- Experience with ABAP, ABAP Cloud, RAP, BTP, CAP, PI/PO, CI, Fiori, SAPUI5;
+- Administration Technician;
+- Graduated Systems analysis and development;
+- Postgraduated in Team Leadership and Management;
+- Always looking for improvement;
+- Four years working in development and SAP;
 
  <br>
  
