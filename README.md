@@ -9,6 +9,11 @@
 
 #
 
+Contact me
+[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(vitorkazuma@gmail.com)]
+
+#
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
